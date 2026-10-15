@@ -1,4 +1,4 @@
-<h1 align="center">سلام، من متین ملکم 👋</h1>
+<h1 align="center">سلام، من متین ملک هستم 👋</h1>
 
 <p align="center">
   <em>A poet who sees everything as poetry — even code.</em><br/>
@@ -85,19 +85,6 @@
 - مدیریت تولید محتوا و نگارش سناریو
 - همکاری با تیم‌های چندتخصصی برای تحویل به‌موقع پروژه‌ها
 - کسب مهارت‌های انتقالی در روایت‌پردازی، جذب کاربر و ارتباط مؤثر
-
----
-
-## 📊 آمار گیت‌هاب
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matinmallek&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmallek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 📫 راه‌های ارتباطی
